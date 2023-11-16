@@ -1,2 +1,0 @@
-# eulamindup.github.io
-EULA 
